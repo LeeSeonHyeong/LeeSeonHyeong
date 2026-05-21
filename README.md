@@ -25,7 +25,11 @@
 ---
 
 ## 💼 Experience
-
+**SSAFY (Samsung Software Academy for Youth)** 
+📅 **Jan 2026 – Present**
+- Intensive 1,600+ hours full-time software engineering program focusing on advanced algorithms and full-stack development.
+- Specialized in the Python track, mastering complex problem-solving and rigorous code optimization.
+- **Key Activities:** Developed a recycling-based Visual Question Answering (VQA) multimodal model for the SSAFY AI Challenge.
 **Ericsson-LG Korea Partners** — _Intern_
 📅 **Jun 2025 – Aug 2025**
 - Built an internal RAG-based onboarding chatbot for new and foreign employees
