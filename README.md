@@ -86,19 +86,3 @@ An AI-powered tool that automatically reviews **ASN.1 protocol diffs** to catch 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linear_lee&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linear_lee&theme=default&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linear_lee&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
----
-
-<p align="center">
-  <em>Thanks for stopping by! ✨</em>
-</p>
